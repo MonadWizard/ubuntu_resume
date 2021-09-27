@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ubuntu_resume/static/css/main.0a07c6af.chunk.css",
+    "main.js": "/ubuntu_resume/static/js/main.61369bfd.chunk.js",
+    "main.js.map": "/ubuntu_resume/static/js/main.61369bfd.chunk.js.map",
+    "runtime-main.js": "/ubuntu_resume/static/js/runtime-main.899ddd94.js",
+    "runtime-main.js.map": "/ubuntu_resume/static/js/runtime-main.899ddd94.js.map",
+    "static/js/2.96c98eb7.chunk.js": "/ubuntu_resume/static/js/2.96c98eb7.chunk.js",
+    "static/js/2.96c98eb7.chunk.js.map": "/ubuntu_resume/static/js/2.96c98eb7.chunk.js.map",
+    "static/js/3.be894a12.chunk.js": "/ubuntu_resume/static/js/3.be894a12.chunk.js",
+    "static/js/3.be894a12.chunk.js.map": "/ubuntu_resume/static/js/3.be894a12.chunk.js.map",
+    "index.html": "/ubuntu_resume/index.html",
+    "static/css/main.0a07c6af.chunk.css.map": "/ubuntu_resume/static/css/main.0a07c6af.chunk.css.map",
+    "static/js/2.96c98eb7.chunk.js.LICENSE.txt": "/ubuntu_resume/static/js/2.96c98eb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.899ddd94.js",
+    "static/js/2.96c98eb7.chunk.js",
+    "static/css/main.0a07c6af.chunk.css",
+    "static/js/main.61369bfd.chunk.js"
+  ]
+}
