@@ -2,7 +2,7 @@
     "name": "monadwizard-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://monadwizard.github.io/ubuntu_resume",
+    "homepage": "www.rakib.pagla.me",
     "dependencies": {
         "@craco/craco": "^6.1.2",
         "@testing-library/jest-dom": "^5.11.9",
