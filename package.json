@@ -2,7 +2,7 @@
     "name": "monadwizard-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "www.rakib.pagla.me",
+    "homepage": " https://monadwizard.github.io",
     "dependencies": {
         "@craco/craco": "^6.1.2",
         "@testing-library/jest-dom": "^5.11.9",
